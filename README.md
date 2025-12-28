@@ -97,7 +97,7 @@ src/
 - How props are used to communicate between components
 - How small mistakes like missing props or duplicated state can break the UI
 - How to debug and fix runtime errors using the console
-```
+
 
 
 
